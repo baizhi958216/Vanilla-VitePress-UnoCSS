@@ -1,0 +1,17 @@
+{
+  "name": "vanilla-vitepress-uno",
+  "version": "1.0.0",
+  "author": "baizhi958216",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "description": "Vanilla VitePress UnoCSS template",
+  "devDependencies": {
+    "sass-embedded": "latest",
+    "unocss": "latest",
+    "vitepress": "latest"
+  }
+}
